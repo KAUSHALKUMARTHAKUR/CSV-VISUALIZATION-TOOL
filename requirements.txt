@@ -1,6 +1,6 @@
 streamlit
-pandas
-numpy
+pandas>=2.1.2
+numpy<2.0
 matplotlib
 plotly
 seaborn
