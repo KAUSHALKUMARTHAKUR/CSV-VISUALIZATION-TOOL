@@ -1,5 +1,9 @@
-streamlit==1.38.0
+streamlit
 pandas
+numpy
 matplotlib
-python-dotenv
-pandasai
+plotly
+seaborn
+openai
+pandasai==2.0.25
+sqlglot<25
